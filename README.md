@@ -1,2 +1,2 @@
 # Caesar-Cipher
-"""A basic shift cipher coded in python."""
+A basic cipher which prompts the user to enter the plaintext and the number of characters in the alphabet they want to shift by.
